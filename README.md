@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is **M. Anjasfedo Afridiansah**<br>
+
+- 🌱 I’m currently learning VueJS and ReactJS.
+- 📫 How to reach me: [Instagram](https://instagram.com/fedo_ad)
+
 <!--
 **G1A021037-ANJASFEDO/G1A021037-ANJASFEDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
