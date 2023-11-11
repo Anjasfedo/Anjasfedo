@@ -15,6 +15,7 @@ I am an undergraduate in informatics at Bengkulu University.
 </a>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=Anjasfedo&label=Profile%20Views&color=6&icon=4&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **G1A021037-ANJASFEDO/G1A021037-ANJASFEDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
