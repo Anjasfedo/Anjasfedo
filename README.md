@@ -1,11 +1,20 @@
-### Hi there 👋
+### Hello Everyone 👋
+My name is **M. Anjasfedo Afridiansah,** and I aspire to become a Full Stack Web Developer. <br/>
+Currently, I am an undergraduate student majoring in Computer Science at Bengkulu University.
 
-My name is **M. Anjasfedo Afridiansah.**<br>
+🌟 **Eager to Explore Remote Internship Opportunities!**
 
-I am an undergraduate in informatics at Bengkulu University.
+### Skill & Tech
+- 💻 **Frontend:** HTML, CSS, JavaScript, ReactJS, VueJS
+- 🎨 **Styling:** Tailwind CSS, SASS, Bootstrap
+- ⚙️ **Backend:** Node.js, Express.js, Prisma, MongoDB, phpMyAdmin, MySQL
+- 🌐 **Fullstack:** Laravel, Next.js
+- 🚀 **Tools:** Git, VS Code, npm, Vercel
 
-- 🌱 I’m currently learning VueJS and ReactJS.
-- 📫 How to reach me: [Instagram](https://instagram.com/fedo_ad)
+### Social Media & Contact
+- 📧 Email: fedoafridiansah@gmail.com
+- 🔗 Linkedin: [linkedin.com/in/m-anjasfedo-afridiansah](https://www.linkedin.com/in/m-anjasfedo-afridiansah/)
+- 📷 Instagram: [instagram.com/fedo_ad](https://instagram.com/fedo_ad)
 
 ### Github Statistic
 <p align="left">
@@ -18,15 +27,3 @@ I am an undergraduate in informatics at Bengkulu University.
 [![](https://visitcount.itsvg.in/api?id=Anjasfedo&label=Profile%20Views&color=6&icon=4&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **G1A021037-ANJASFEDO/G1A021037-ANJASFEDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
