@@ -11,6 +11,10 @@ Currently, I am an undergraduate student majoring in Computer Science at Bengkul
 - 🌐 **Fullstack:** Laravel, Next.js
 - 🚀 **Tools:** Git, VS Code, npm, Vercel
 
+### Machine Learning Interest
+- 🧠 **Algorithms:** Exploring scikit-learn for data analysis and predictive modeling.
+- 🤖 **Neural Networks:** Fascinated by TensorFlow for deep learning.
+
 ### Social Media & Contact
 - 📧 Email: fedoafridiansah@gmail.com
 - 🔗 Linkedin: [linkedin.com/in/m-anjasfedo-afridiansah](https://www.linkedin.com/in/m-anjasfedo-afridiansah/)
