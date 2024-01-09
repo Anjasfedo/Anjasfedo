@@ -22,7 +22,7 @@ Currently, I am an undergraduate student majoring in Computer Science at Bengkul
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/G1A021037-ANJASFEDO">
+<a href="https://github.com/Anjasfedo" target="_blank">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anjasfedo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anjasfedo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
