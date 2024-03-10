@@ -1,25 +1,27 @@
 ### Hello Everyone! 👋
 
 My name is **M. Anjasfedo Afridiansah,** and I aspire to become a Full Stack Web Developer. <br/>
-Currently, I am an undergraduate student majoring in Computer Science at Bengkulu University.
+Currently, I'm an undergraduate student majoring in Computer Science at Bengkulu University.
 
-🌟 **Eager to Explore Remote Internship Opportunities!**
+🌟 Right now i'm participate in the [**Bangkit Academy 2024 Batch 1**](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing) programme as Cloud Computing Path Cohort.
 
 ### Skills & Technologies
-- 🖥️ **Programming Languages:** JavaScript, Python, PHP
+- 🖥️ **Programming Languages:** JavaScript, Python, PHP, Golang
 - 💻 **Frontend:** HTML, CSS, React.js, Vue.js
 - 🎨 **Styling:** Tailwind CSS, Bootstrap
-- ⚙️ **Backend:** Express.js, MongoDB, SQL
-- 🌐 **Fullstack:** Laravel, Next.js
+- ⚙️ **Backend:** Express.js
+- 💾 **Database:** MongoDB, MySQL, PostgreSQL
+- 🌐 **Fullstack:** Laravel, Next.js, Nuxt.js
 - 🚀 **Tools:** Node.js, Git, GitHub, NPM, Visual Studio Code, Vercel
 
 ### Learning Interest
-- 🖥️ **Programming Languages:** Golang, C, Java, Haskell
-- 💻 **Frontend:** Qwik.js, Svelte.js, React Native
-- ⚙️ **Backend:** Firebase, Flask, AWS
-- 🎮 **Game Development:** Godot
+- 🖥️ **Programming Languages:** Java, C, C++, C#
+- 💻 **Frontend:** React Native, Flutter
+- ⚙️ **Backend:** Flask, Django
+- 🚀 **Tools:** Docker, Google Cloud Platform, Firebase, Amazon Web Services, Nginx
 - 🤖 **Machine Learning:** Tensorflow, Scikit-learn
-- 📊 **Other:** OpenCV, Beautiful Soup
+- 🎮 **Game Development:** Godot
+- 📊 **Other:** Data Structures & Algoritms, OpenCV
 
 ### Social Media & Contact
 - 📧 **Email:** [fedoafridiansah@gmail.com](mailto:fedoafridiansah@gmail.com)
