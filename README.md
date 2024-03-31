@@ -33,12 +33,21 @@ Currently, I'm an undergraduate student majoring in Computer Science at Bengkulu
 
 <div align="center">
 <a href="https://github.com/Anjasfedo">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjasfedo&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjasfedo&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjasfedo&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anjasfedo&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjasfedo&theme=aura" height="180em" />
-<img align="center" src="https://visitcount.itsvg.in/api?id=Anjasfedo&label=Profile%20Views&color=6&icon=4&pretty=true" height="20em" />
+<div>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjasfedo&theme=aura" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjasfedo&theme=aura" height="180em" />
+</div>
+<div>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjasfedo&theme=aura" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anjasfedo&theme=aura" height="180em" />
+</div>
+<div>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjasfedo&theme=aura" height="180em" />
+</div>
+<div>
+  <img align="center" src="https://visitcount.itsvg.in/api?id=Anjasfedo&label=Profile%20Views&color=6&icon=4&pretty=true" height="20em" />
+</div>
+</a>
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
