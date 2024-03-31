@@ -1,4 +1,5 @@
-### Hello Everyone! 👋
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hello Everyone! 👋</h1> <br>
 
 My name is **M. Anjasfedo Afridiansah,** and I aspire to become a Full Stack Web Developer. <br/>
 Currently, I'm an undergraduate student majoring in Computer Science at Bengkulu University.
@@ -28,14 +29,16 @@ Currently, I'm an undergraduate student majoring in Computer Science at Bengkulu
 - 🔗 **LinkedIn:** [linkedin.com/in/m-anjasfedo-afridiansah](https://www.linkedin.com/in/m-anjasfedo-afridiansah/)
 - 📷 **Instagram:** [instagram.com/fedo_ad](https://instagram.com/fedo_ad)
 
-### GitHub Statistics
-<p align="left">
-  <a href="https://github.com/Anjasfedo" target="_blank">
-    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anjasfedo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anjasfedo&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Anjasfedo&label=Profile%20Views&color=6&icon=4&pretty=true)](https://visitcount.itsvg.in)
-<!--
-**G1A021037-ANJASFEDO/G1A021037-ANJASFEDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href="https://github.com/Anjasfedo">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjasfedo&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjasfedo&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjasfedo&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anjasfedo&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjasfedo&theme=aura" height="180em" />
+<img align="center" src="https://visitcount.itsvg.in/api?id=Anjasfedo&label=Profile%20Views&color=6&icon=4&pretty=true" height="20em" />
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
