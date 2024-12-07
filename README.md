@@ -26,7 +26,7 @@ Currently, I'm an undergraduate student majoring in Informatics at University of
 ### Social Media & Contact
 - 📧 **Email:** [fedoafridiansah@gmail.com](mailto:fedoafridiansah@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/m-anjasfedo-afridiansah](https://www.linkedin.com/in/m-anjasfedo-afridiansah/)
-- 📷 **Instagram:** [instagram.com/fedo_ad](https://instagram.com/fedo_ad)
+- 📷 **Instagram:** [instagram.com/anjas_fedo](https://instagram.com/anjas_fedo)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
