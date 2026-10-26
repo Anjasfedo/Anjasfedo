@@ -1,52 +1,78 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hello Everyone! 👋</h1> <br>
+[![Website](https://img.shields.io/badge/Website-anjasfedo.github.io-24292F?style=flat&logo=googlechrome&logoColor=white)](https://anjasfedo.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40m--anjasfedo--afridiansah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-anjasfedo-afridiansah)
+[![Instagram](https://img.shields.io/badge/Instagram-%40anjas__fedo-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anjas_fedo/)
+[![GitHub](https://img.shields.io/badge/GitHub-%40Anjasfedo-24292F?style=flat&logo=github&logoColor=white)](https://github.com/Anjasfedo)
+[![Email](https://img.shields.io/badge/Email-fedoafridiansah%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fedoafridiansah@gmail.com)
 
-My name is **M. Anjasfedo Afridiansah,** and I aspire to become a Full Stack Web Developer. <br/>
-Currently, I'm an undergraduate student majoring in Informatics at University of Bengkulu.
+### Hi, I'm Anjasfedo 👋
 
-[**Bangkit Academy 2024 Batch 1**](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing) Cloud Computing Path Cohort.
+**M. Anjasfedo Afridiansah** — Mobile Team Lead & Full-stack Developer from Bengkulu, Indonesia. Informatics undergrad at Universitas Bengkulu (Bangkit Academy 2024, Cloud Computing path), building Flutter apps, web platforms, Go & IoT backends on AWS, GCP, and Docker.
 
-### Skills & Technologies
-- 🖥️ **Programming Languages:** JavaScript, Python, PHP, Golang, TypeScript
-- 💻 **Frontend:** HTML, CSS, React.js, Vue.js
-- 🎨 **Styling:** Tailwind CSS, Bootstrap CSS
-- ⚙️ **Backend:** Express.js
-- 💾 **Database:** MongoDB, MySQL, PostgreSQL
-- 🌐 **Fullstack:** Laravel, Next.js, Django
-- 🚀 **Tools:** Git, GitHub, Visual Studio Code, PyCharm, Docker
+💬 Ask me about Flutter, Laravel, React & Next.js, Vue, Go, Docker, and anything cloud — AWS, GCP, CI/CD, and infrastructure as code.
 
-### Learning Interest
-- 🖥️ **Programming Languages:** Java, C, C++, C#
-- 💻 **Frontend:** React Native, Flutter
-- ⚙️ **Backend:** Flask, Nest.js
-- 🚀 **Tools:** Google Cloud Platform, Firebase, Amazon Web Services
-- 🤖 **Machine Learning:** Pytorch, Tensorflow, Scikit-learn
-- 📊 **Other:** Data Structures & Algoritms, OpenCV
+---
 
-### Social Media & Contact
-- 📧 **Email:** [fedoafridiansah@gmail.com](mailto:fedoafridiansah@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/m-anjasfedo-afridiansah](https://www.linkedin.com/in/m-anjasfedo-afridiansah/)
-- 📷 **Instagram:** [instagram.com/anjas_fedo](https://instagram.com/anjas_fedo)
+### 🧭 The Journey So Far
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+- **2021** — Started Bachelor of Informatics at Universitas Bengkulu
+- **2023** — First complete end-to-end full-stack projects (Laravel POS), freeCodeCamp & AWS Educate fundamentals
+- **2024** — Bangkit Academy (Google, Tokopedia, Gojek, Traveloka) Cloud Computing cohort → frontend & DevOps internships → Assistant Lecturer for Web & Framework Programming; joined Perseverance Technology / CV Aranus Technology
+- **2025** — DevOps & Solutions Architect at Elitery (AWS), freelance feature work on Yena AI, Talenta Cloud Academy, and Software Engineer at Rafflesia Agro (Chikora web, Go backends & MQTT)
+- **2026** — Mobile Team Lead & Full-stack Developer; shipped the LATUN ecosystem (Jobs, Website, Grant — 437+ commits across three products); graduating May 2026
 
-<div align="center">
-<a href="https://github.com/Anjasfedo">
-<div>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anjasfedo&theme=aura" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjasfedo&theme=aura" height="180em" />
-</div>
-<div>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjasfedo&theme=aura" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anjasfedo&theme=aura" height="180em" />
-</div>
-<div>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjasfedo&theme=aura" height="180em" />
-</div>
-<div>
-  <img align="center" src="https://visitcount.itsvg.in/api?id=Anjasfedo&label=Profile%20Views&color=6&icon=4&pretty=true" height="20em" />
-</div>
-</a>
-</div>
+---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+### 🛠️ Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjasfedo/Anjasfedo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjasfedo/Anjasfedo/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anjasfedo/Anjasfedo/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Anjasfedo">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Anjasfedo&show_icons=true&theme=dark" />
+          <img alt="Anjasfedo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anjasfedo&show_icons=true&theme=default" />
+        </picture>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Anjasfedo?tab=repositories">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjasfedo&layout=compact&card_width=467&theme=dark" />
+          <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjasfedo&layout=compact&card_width=467&theme=default" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+Best regards,<br>
+
+M. Anjasfedo Afridiansah<br>
+fedoafridiansah@gmail.com
