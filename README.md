@@ -18,7 +18,7 @@
 - **2023** — First complete end-to-end full-stack projects (Laravel POS), freeCodeCamp & AWS Educate fundamentals
 - **2024** — Bangkit Academy (Google, Tokopedia, Gojek, Traveloka) Cloud Computing cohort → frontend & DevOps internships → Assistant Lecturer for Web & Framework Programming; joined Perseverance Technology / CV Aranus Technology
 - **2025** — DevOps & Solutions Architect at Elitery (AWS), freelance feature work on Yena AI, Talenta Cloud Academy, and Software Engineer at Rafflesia Agro (Chikora web, Go backends & MQTT)
-- **2026** — Mobile Team Lead & Full-stack Developer; shipped the LATUN ecosystem (Jobs, Website, Grant — 437+ commits across three products); graduating May 2026
+- **2026** — Mobile Team Lead & Full-stack Developer; shipped the LATUN ecosystem (Jobs, Website, Grant); graduating May 2026
 
 ---
 
