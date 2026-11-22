@@ -1,6 +1,6 @@
-[![Website](https://img.shields.io/badge/Website-anjasfedo.github.io-24292F?style=flat&logo=googlechrome&logoColor=white)](https://anjasfedo.github.io)
+[![Website](https://img.shields.io/badge/Website-anjasfedo.my.id-24292F?style=flat&logo=googlechrome&logoColor=white)](https://anjasfedo.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40m--anjasfedo--afridiansah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-anjasfedo-afridiansah)
-[![Instagram](https://img.shields.io/badge/Instagram-%40anjas__fedo-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anjas_fedo/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40anjasfedo-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anjasfedo/)
 [![GitHub](https://img.shields.io/badge/GitHub-%40Anjasfedo-24292F?style=flat&logo=github&logoColor=white)](https://github.com/Anjasfedo)
 [![Email](https://img.shields.io/badge/Email-fedoafridiansah%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fedoafridiansah@gmail.com)
 
